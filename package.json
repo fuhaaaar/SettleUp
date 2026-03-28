@@ -1,7 +1,7 @@
 {
-  "name": "splitapp",
+  "name": "settleup",
   "version": "1.0.0",
-  "description": "This is a group money spliting app made with MERN stack ",
+  "description": "A group expense splitting web app built with the MERN stack",
   "main": "app.js",
   "scripts": {
     "test": "npx nodemon app.js",
@@ -10,10 +10,12 @@
     "dev": "concurrently \"npm test\" \"cd client && npm start\" "
   },
   "keywords": [
-    "SplitWise"
+    "SettleUp",
+    "expense-splitting",
+    "MERN"
   ],
-  "author": "Sunny George",
-  "license": "ISC",
+  "author": "Fuhar Sagar",
+  "license": "MIT",
   "dependencies": {
     "@mui/x-data-grid": "^5.12.3",
     "bcryptjs": "^2.4.3",
