@@ -6,10 +6,15 @@ A full stack group expense splitting web application built with the MERN stack. 
 [Coming Soon]
 
 ## 📸 Screenshots
-
+MAIN DASHBOARD :
 ![Dashboard](Screenshots/dashboard-main.png)
+
+CHARTS :          
 ![Charts](Screenshots/dashboard-charts.png)
+
+GROUPS :                
 ![Groups](Screenshots/groups.png)
+            
 
 ## ✨ Features
 
