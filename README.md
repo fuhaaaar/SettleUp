@@ -3,7 +3,7 @@
 A full stack group expense splitting web application built with the MERN stack. Designed to help friend groups, flatmates, and travel groups track shared expenses and settle balances easily.
 
 ## 🚀 Live Demo
-[Coming Soon]
+https://settle-up-chi.vercel.app
 
 ## 📸 Screenshots
 MAIN DASHBOARD :
