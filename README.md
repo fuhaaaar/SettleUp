@@ -1,6 +1,6 @@
 # SettleUp 💸
 
-A full stack group expense splitting web application built with the MERN stack. Designed to help friend groups, flatmates, and travel groups track shared expenses and settle balances easily.
+A full stack group expense splitting web application built with the MERN stack. Designed to help friend groups, flatmates, and travel groups to track shared expenses and settle balances easily .
 
 ## 🚀 Live Demo
 https://settle-up-chi.vercel.app
@@ -18,7 +18,7 @@ GROUPS :
 
 ## ✨ Features
 
-- Create groups and track shared expenses between friends
+- Create groups and track shared expenses between friends.
 - Dashboard with real-time balance overview — who owes you and who you owe
 - Settle up with group members directly from the app
 - Category-wise expense pie charts and monthly spend graphs
